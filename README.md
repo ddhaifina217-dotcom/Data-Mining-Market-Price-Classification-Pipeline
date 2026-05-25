@@ -6,7 +6,7 @@ An end-to-end predictive analytics and machine learning workflow built using **O
 Car buyers and sellers often face difficulty in determining a fair market price due to variations in vehicle characteristics such as mileage, engine size, and manufacturer. This study applies data mining techniques using Orange to explore pricing patterns, segment vehicles into price categories, and predict price levels based on key attributes.
 
 ## 🛠️ Visual Workflow Workspace
-![Orange Workflow Canvas](images/workflow_canvas.png)
+![Orange Workflow Canvas](Data%20mining%20on%20car%20sales.svg)
 *Figure 1: The complete end-to-end processing pipeline constructed using visual programming widgets in Orange.*
 
 ---
